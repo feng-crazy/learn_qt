@@ -1,0 +1,4 @@
+10-11-26: Debug: *************************** 
+10-11-26: Debug: main thread: 0x24f4 
+10-11-26: Debug: "COM9" "115200" "8" "1" "1" 
+10-11-29: Debug: [m MainWindow  quit! [m 

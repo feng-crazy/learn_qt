@@ -1,0 +1,10 @@
+16-34-25: Debug: *************************** 
+16-34-25: Debug: main thread: 0x2f88 
+16-34-26: Debug: "COM9" "115200" "8" "1" "1" 
+16-34-32: Debug: [1;31m pidForm was close [m 
+16-34-35: Debug: [1;31m pidForm was close [m 
+16-44-56: Debug: [m MainWindow  quit! [m 
+16-49-46: Debug: *************************** 
+16-49-46: Debug: main thread: 0x1cc0 
+16-49-46: Debug: "COM9" "115200" "8" "1" "1" 
+17-16-40: Debug: [m MainWindow  quit! [m 
